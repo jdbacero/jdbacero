@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things related to tech and code.
 - 🌱 I’m currently learning VueJS, React, and GraphQL.
 - 💞️ I’m looking to collaborate on any web projects.
-- 📫 You can reach me on [facebook](https://fb.me/jdbacero) or through [email](jdbacero@gmail.com).
+- 📫 You can reach me on [facebook](https://fb.me/jdbacero) or through [email](mailto:jdbacero@gmail.com).
 
 <!---
 jdbacero/jdbacero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
